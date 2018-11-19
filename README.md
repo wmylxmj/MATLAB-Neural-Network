@@ -4,3 +4,5 @@
 ![](train.jpg)
 # 测试
 ![](test.jpg)
+# 损失值
+![](costs.jpg)
