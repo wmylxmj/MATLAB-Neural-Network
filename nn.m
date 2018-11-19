@@ -3,7 +3,7 @@ clc
 
 load('data.mat');
 
-for i=1:200
+for i=1:211
     dot = X(i,:);
     if y(i,1)==1
         plot(dot(:,1),dot(:,2), 'o','Color','b');
